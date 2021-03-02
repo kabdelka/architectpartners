@@ -12,19 +12,19 @@ const Routes = () => {
 
 				<div>
 					<Switch>
-							<Route exact path='/architectpartners/'>
+							<Route exact path='/'>
 								<PrincipalView/>
 							</Route>
 
-							<Route exact path='/architectpartners/projects'>
+							<Route exact path='/projects'>
 								<ProjectsView/>
 							</Route>	
 
-							<Route exact path='/architectpartners/contact'>
+							<Route exact path='/contact'>
 								<ContactView/>
 								
 							</Route>
-							<Route exact path='/architectpartners/about'>
+							<Route exact path='/about'>
 
 								<AboutView/>
 
