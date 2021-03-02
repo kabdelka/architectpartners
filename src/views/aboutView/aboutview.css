@@ -1,0 +1,12 @@
+.about-container{
+
+	display: flex;
+	flex-direction: row;
+}
+
+p{
+	width: 30%;
+	font-size: 1.3em;
+	margin:0.5em;
+	text-align: center;
+}

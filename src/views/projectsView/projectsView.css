@@ -1,41 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600&display=swap');
-
-/*Layouts*/
-
-.container{
-  width: 90%;
-  display: flex;
-  flex-direction: column;
-  margin:0 auto;
-  height: 100vh;
+.section-projects{
+  height: fit-content;
 }
-
-.section1{
-  height: 10vh;
-}
-
-.section2{
-height: 70vh;
-}
-
-.section3{
-  height: 20vh;
-}
-
-
-/*Typographie*/
-
-body {
-  font-family: 'Crimson Text', serif;
-}
-
-a {
-  text-decoration: none;
-  color: black;
-}
-
-
-/*Projects styles*/
 
 .projects{
   height: 100%;
@@ -136,5 +101,3 @@ min-height: 70vh;
   transform: translateY(30px);
   transition: 0.5s;
 }
-
-/* extract the project section css */
