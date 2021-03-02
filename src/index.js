@@ -8,7 +8,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 
 ReactDOM.render(
   
-	<Router basename='https://kabdelka.github.io/architectpartners/'>
+	<Router basename='/architectpartners/'>
     	
     	<App />
 		
