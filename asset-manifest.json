@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/architectpartners/static/css/main.39ba411f.chunk.css",
-    "main.js": "/architectpartners/static/js/main.a95b626f.chunk.js",
-    "main.js.map": "/architectpartners/static/js/main.a95b626f.chunk.js.map",
+    "main.js": "/architectpartners/static/js/main.800c60f3.chunk.js",
+    "main.js.map": "/architectpartners/static/js/main.800c60f3.chunk.js.map",
     "runtime-main.js": "/architectpartners/static/js/runtime-main.f0359d5a.js",
     "runtime-main.js.map": "/architectpartners/static/js/runtime-main.f0359d5a.js.map",
     "static/js/2.60724051.chunk.js": "/architectpartners/static/js/2.60724051.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.f0359d5a.js",
     "static/js/2.60724051.chunk.js",
     "static/css/main.39ba411f.chunk.css",
-    "static/js/main.a95b626f.chunk.js"
+    "static/js/main.800c60f3.chunk.js"
   ]
 }
