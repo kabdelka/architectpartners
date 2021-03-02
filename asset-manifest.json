@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/architectpartners/static/css/main.39ba411f.chunk.css",
+    "main.js": "/architectpartners/static/js/main.a95b626f.chunk.js",
+    "main.js.map": "/architectpartners/static/js/main.a95b626f.chunk.js.map",
+    "runtime-main.js": "/architectpartners/static/js/runtime-main.f0359d5a.js",
+    "runtime-main.js.map": "/architectpartners/static/js/runtime-main.f0359d5a.js.map",
+    "static/js/2.60724051.chunk.js": "/architectpartners/static/js/2.60724051.chunk.js",
+    "static/js/2.60724051.chunk.js.map": "/architectpartners/static/js/2.60724051.chunk.js.map",
+    "static/js/3.4d1b008b.chunk.js": "/architectpartners/static/js/3.4d1b008b.chunk.js",
+    "static/js/3.4d1b008b.chunk.js.map": "/architectpartners/static/js/3.4d1b008b.chunk.js.map",
+    "index.html": "/architectpartners/index.html",
+    "static/css/main.39ba411f.chunk.css.map": "/architectpartners/static/css/main.39ba411f.chunk.css.map",
+    "static/js/2.60724051.chunk.js.LICENSE.txt": "/architectpartners/static/js/2.60724051.chunk.js.LICENSE.txt",
+    "static/media/banner.css": "/architectpartners/static/media/banner.f3583a41.jpg",
+    "static/media/logo-ap.6abbf7e2.jpg": "/architectpartners/static/media/logo-ap.6abbf7e2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0359d5a.js",
+    "static/js/2.60724051.chunk.js",
+    "static/css/main.39ba411f.chunk.css",
+    "static/js/main.a95b626f.chunk.js"
+  ]
+}
