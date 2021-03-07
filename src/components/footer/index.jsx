@@ -8,7 +8,7 @@ const Footer = () => {
 
 			<div className="footer">
 					<div className="footer-nav">
-						<div className="links"><a href="/">Home</a></div>
+						<div className="links"><a href="https://kabdelka.github.io/architectpartners/">Home</a></div>
 						<div className="links"><a href="https://kabdelka.github.io/architectpartners/#/projects">Projects</a></div>
 						<div className="links"><a href="https://kabdelka.github.io/architectpartners/#/contact">Contact</a></div>
 						<div className="links"><a href="https://kabdelka.github.io/architectpartners/#/about">About us</a></div>
